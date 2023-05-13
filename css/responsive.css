@@ -1,0 +1,23 @@
+/*skin resulation:279px to 319px*/
+@media (min-width: 279px) and (max-width: 319px){
+	body{
+		overflow-x: hidden;
+	}
+}
+
+/*skin resulation:320px to 480px*/
+@media (min-width: 320px) and (max-width: 480px){
+	body{
+		overflow-x: hidden;
+	}
+}
+
+/*skin resulation:481px to 567px*/
+@media (min-width: 481px) and (max-width: 567px){
+
+}
+
+/*skin resulation:568px to 1024px*/
+@media (min-width: 568px) and (max-width: 1024px){
+
+}
